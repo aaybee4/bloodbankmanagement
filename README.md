@@ -1,5 +1,5 @@
 # Blood Bank Management System
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
+![developer](https://img.shields.io/badge/Re-developed%20By%20%3A-Abubakar%20Jamil-red)
 ---
 ## Screenshots
 ### Homepage
